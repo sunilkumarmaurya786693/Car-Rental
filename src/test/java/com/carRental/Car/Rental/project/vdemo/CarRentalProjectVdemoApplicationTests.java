@@ -11,3 +11,4 @@ class CarRentalProjectVdemoApplicationTests {
 	}
 
 }
+https://github.com/teddysmithdev/pokemon-review-springboot/blob/master/src/test/java/com/pokemonreview/api/controller/PokemonControllerTests.java
